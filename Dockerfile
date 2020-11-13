@@ -12,5 +12,3 @@ RUN apt -qq install -y git wget python3 python3-pip python3-venv sudo fakeroot
 COPY requirements.txt .
 RUN pip3 install --no-cache-dir -r requirements.txt
 COPY . .
-
-CMD ["bash","start.sh"]
