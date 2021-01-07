@@ -4,7 +4,7 @@
 [![Open Source Love](https://img.shields.io/github/issues/Rayanfer32/TgindexPro?style=for-the-badge)](.) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-orange.svg?style=for-the-badge)](LICENSE) [![GitHub forks](https://img.shields.io/github/forks/Rayanfer32/TgindexPro?style=for-the-badge)]() [![GitHub Stars](https://img.shields.io/github/stars/Rayanfer32/TgindexPro?style=for-the-badge)]() [![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FRayanfer32%2FTgindexPro)
 
 ## Deploy Here!
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/usmanmughalji/TgindexPro/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/NinjaTG/TgindexPro/tree/main)
 
 ## Highlights
 
